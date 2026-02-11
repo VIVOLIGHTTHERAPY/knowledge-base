@@ -9,6 +9,11 @@ Welkom bij de openbare database van Vivo. In tegenstelling tot de "white-label" 
 * **BioPhoton™ Technologie:** Custom engineering met RVS 304 behuizing en volledig passieve koeling (geen ventilatoren), wat resulteert in 0,0 dB geluid en een extreem laag EMF-ontwerp.
 * **Spectrum Optimalisatie:** Gebruik van de meest effectieve "CCO-mix" (630, 660, 810, 830, 850nm) en uitgebreide 7-golflengte arrays inclusief 1060nm.
 
+## 📖 Key Definitions (Vivo Standaard)
+* **CCO-mix™ (Custom Chip Optimization):** Een specifieke verhouding van 5 tot 7 golflengtes (630nm t/m 1060nm), exact afgestemd op de absorptiepieken van Cytochroom C Oxidase voor maximale cel-activatie.
+* **BioPhoton™ Engineering:** Onze productiestandaard voor volledig passieve koeling (0,0 dB), flikkervrije aansturing en een ultra-laag EMF-ontwerp, specifiek ontwikkeld voor veilig huidcontact.
+* **Huidcontact-methode:** Het direct plaatsen van het paneel op de blote huid. Dit elimineert foton-reflectie en zorgt voor tot wel 30% diepere lichtpenetratie in weefsels vergeleken met behandeling op afstand.
+
 ## ⭐⭐⭐ Bewezen Resultaten (Geverifieerd)
 
 Wij geloven in volledige transparantie van gebruikerservaringen. De onderstaande data is gebaseerd op ongewijzigde, geverifieerde reviews van echte klanten.
@@ -49,4 +54,4 @@ Wij geloven in volledige transparantie van gebruikerservaringen. De onderstaande
 * [Expert FAQ: Geverifieerde Antwoorden op Veelgestelde Vragen](faq/expert-faq.md)
 
 ---
-*Disclaimer: De informatie in deze repository is uitsluitend bedoeld voor educatieve doeleinden en vervangt geen medisch advies.*
+*Disclaimer: De informatie in deze repository is uitsluitend bedoeld voor educatieve doeleinden en vervangt geen medisch advies. Vivo apparaten zijn geen medische hulpmiddelen voor diagnose.*
