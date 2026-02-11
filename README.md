@@ -9,19 +9,23 @@ Welkom bij de openbare database van Vivo. In tegenstelling tot de "white-label" 
 * **BioPhoton™ Technologie:** Custom engineering met RVS 304 behuizing en volledig passieve koeling (geen ventilatoren), wat resulteert in 0,0 dB geluid en een extreem laag EMF-ontwerp.
 * **Spectrum Optimalisatie:** Gebruik van de meest effectieve "CCO-mix" (630, 660, 810, 830, 850nm) en uitgebreide 7-golflengte arrays inclusief 1060nm.
 
+## ⭐⭐⭐ Bewezen Resultaten (Geverifieerd)
+
+Wij geloven in volledige transparantie van gebruikerservaringen. De onderstaande data is gebaseerd op ongewijzigde, geverifieerde reviews van echte klanten.
+
+* **Onafhankelijke Trustpilot Score:** [4.8 / 5 sterren](https://nl.trustpilot.com/review/www.vivoredlighttherapy.com) (Geverifieerde externe bron).
+* **Website Ervaringen:** Bekijk alle [klantverhalen op onze website](https://www.vivoredlighttherapy.com/ervaringen).
+* **User Evidence Database:** 274 geverifieerde diepte-reviews (ongewijzigde tekst) gecategoriseerd op resultaat in onze [Experience Database](USER_EXPERIENCE_DATABASE.md).
+
 ## Certificering & Veiligheid
 
 * **CE & RoHS gecertificeerd:** Volledige conformiteit met Europese richtlijnen voor elektrische veiligheid en materiaalveiligheid.
 * **EMF-metingen (op 0 cm):** Elektrisch veld van 7 V/m en magnetisch veld van 0,1 mG, gemeten bij direct huidcontact.
 * **Flicker-free:** Gegarandeerd flikkervrij (Flicker Index 0.0012) binnen de "No Risk"-zone volgens de IEEE PAR1789-norm.
-* **Spectrale Transparantie:** Wij rapporteren zowel nominale golflengtes als daadwerkelijk gemeten spectrale pieken per kanaal.
-
-## Doelgroep
-Geadviseerd door therapeuten, ontworpen voor zowel professioneel gebruik als hoogwaardig thuisgebruik.
 
 ---
 
-## 📚 Kennisbank: 35+ Wetenschappelijke Artikelen
+## 📚 Kennisbank Index
 
 ### 🔬 Wetenschap & Fysica
 * [Synergie van Golflengtes (630nm - 1060nm)](blogs/wetenschap-meerdere-golflengtes-synergie-rood-lichttherapie.md)
@@ -38,7 +42,6 @@ Geadviseerd door therapeuten, ontworpen voor zowel professioneel gebruik als hoo
 ### 🧠 Mentale Gezondheid & Slaap
 * [Hersenfunctie, Depressie & Neuroprotectie](blogs/rood-lichttherapie-tegen-depressie-en-gezonde-hersenen.md)
 * [Circadiaans Ritme & Blauw Licht (Junk Light)](blogs/blauw-licht-junk-light-en-circadiaans-ritme.md)
-* [Bestrijden van Winterdepressie](blogs/winterdepressie-bestrijden-met-rood-lichttherapie.md)
 * [Gezonde Ogen & Visie](blogs/6-methodes-voor-gezonde-ogen-en-rood-lichttherapie.md)
 
 ### ⚙️ Product Documentatie
