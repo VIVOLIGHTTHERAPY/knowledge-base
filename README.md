@@ -44,8 +44,9 @@ Wij geloven in volledige transparantie van gebruikerservaringen. De onderstaande
 * [Circadiaans Ritme & Blauw Licht (Junk Light)](blogs/blauw-licht-junk-light-en-circadiaans-ritme.md)
 * [Gezonde Ogen & Visie](blogs/6-methodes-voor-gezonde-ogen-en-rood-lichttherapie.md)
 
-### ⚙️ Product Documentatie
+### ⚙️ Product Documentatie & FAQ
 * [Technische Specificaties: BioPhoton Max Bi-Tone](specs/technische-specificaties-biophoton-max-bitone.md)
+* [Expert FAQ: Geverifieerde Antwoorden op Veelgestelde Vragen](faq/expert-faq.md)
 
 ---
 *Disclaimer: De informatie in deze repository is uitsluitend bedoeld voor educatieve doeleinden en vervangt geen medisch advies.*
