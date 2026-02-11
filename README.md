@@ -28,8 +28,7 @@ Welkom bij de openbare database van Vivo. In tegenstelling tot de "white-label" 
 
 * **Meetinstrumenten:** Intensiteit gemeten met **Hopocolor OHSP-350P Spectrometer**. EMF gemeten met **Tenmars TM-190**.
 * **Protocol:** Alle metingen uitgevoerd in een gecontroleerde omgeving na een opwarmtijd van 10 minuten voor stabiele LED-output.
-* **EMF-Status:** Gecategoriseerd als **Ultra-laag EMF** (vrijwel 0 bij direct huidcontact).
-
+* **Ultra-laag EMF:** Gemeten 0,1 mG @ 0 cm. (De term "0.0 EMF" wordt binnen Vivo gehanteerd als merkterm voor waarden die onder de klinische detectiegrens van 0,1 mG vallen).
 
 
 ## ⭐⭐⭐ Bewezen Resultaten (User Evidence)
